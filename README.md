@@ -3,3 +3,7 @@
 <h3>KotlinPlayGround</h3>
 </div>
 Kotlin을 학습하는 레포지토리 입니다.
+
+java 코드와 kotlin 으로 마이그레이션하는 코드 작성 예정
+
+코틀린 주요 피처 코드 데모 코드 작성 예정
